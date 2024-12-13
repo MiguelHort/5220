@@ -1,0 +1,57 @@
+{
+    "cIniEstab": "04029",
+    "c": "04029",
+    "iIniForne": 0,
+    "iEndForne": 999999999,
+    "cIniEspec": "",
+    "cEndEspec": "zzz",
+    "cIniSer": "",
+    "cEndSer": "zzz",
+    "cIniTit": "",
+    "cEndTit": "zzzzzzzzzz",
+    "dIniEmis": "01/01/0001",
+    "dEndEmis": "31/12/9999",
+    "dIniTran": "01/01/0001",
+    "dEndTran": "31/12/9999",
+    "dIniVencto": "01/01/0001",
+    "dEndVencto": "31/12/9999"
+}
+
+
+{
+  "Estabel": "",
+  "Fornec": "",
+  "Nome Abrev": "",
+  "Especie": "",
+  "Serie": "",
+  "Titulo": "",
+  "Parcela": "",
+  "Pagto Bloq APB": "",
+  "Vl original": "",
+  "Vencimento APB": "",
+  "Sit div.": "",
+  "Div. Fis": "",
+  "Usuar lib fis": "",
+  "Div. Fin": "",
+  "Usuar lib fin": "",
+  "Div. Fre": "",
+  "Div. Pgto": "",
+  "Usuar lib pagto": "",
+  "Pagto Bloq Monitor": "",
+  "Usuar pagto bloq": "",
+  "Dt Implantacao": "",
+  "User Receb": "",
+  "VL Duplicata": "",
+  "VL Abatimento": "",
+  "Vl Saldo": "",
+  "Em Pagto": "",
+  "Status": "",
+  "Valor Pagto": "",
+  "Chave NFE": "",
+  "Data Transacao": "",
+  "Cod Transporte": "",
+  "Nome Transport": "",
+  "Pr Entrada": ""
+}
+
+  
